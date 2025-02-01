@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Bienvenue</title>
+    <style>
+        body {
+            background-color: pink;
+            text-align: center;
+            font-family: Arial, sans-serif;
+        }
+        h1 {
+            color: #C71585; /* Rose plus foncé */
+            font-size: 3em;
+            margin-top: 20%;
+        }
+    </style>
+</head>
+<body>
+    <h1>Bienvenue</h1>
+</body>
+</html>
